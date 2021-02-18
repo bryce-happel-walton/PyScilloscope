@@ -14,10 +14,10 @@ pip install ...
 - `XlsxWriter`
 
 # PyBoard
-Move files from [PyBoard Scripts](/pyboard) to the PyBoard
+Move files from [PyBoard Scripts](/src/pyboard) to the PyBoard
 
 # Using
-Launch [PyScilloscope](/PyScilloscope.pyw)
+Launch [PyScilloscope](/src/PyScilloscope.pyw)
 
 Select COM Device
 Set values
