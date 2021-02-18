@@ -10,6 +10,6 @@
  - Program is a tad laggy because of PyQtGraph
  - Currently no workaround for a force close, realworld incident, etc.
    - The data will be lost
-    - TODO: make log save every hour, or 30 minutes
-    - User variable interval
+     - TODO: make log save every hour, or 30 minutes
+     - User variable interval
 
