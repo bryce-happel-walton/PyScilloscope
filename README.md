@@ -1,6 +1,8 @@
 # PyScilloscope
 An internship project
 
+A pinecone with lesser experience wrote this!
+
 # Install
 Install [Python 3.7](https://www.python.org/downloads/)
 
